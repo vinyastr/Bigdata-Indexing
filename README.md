@@ -12,14 +12,14 @@ Project for Class Advance Big Data Application / Indexing
 * Elastic Search
 
 ## Functionality
-◦ Rest API that can handle any structured data in Json.
-◦ Rest API with support for crud operations, including merge support, cascaded delete.
-◦ Rest API with support for validation.
-◦ Json Schema describing the data model for the use case.
-◦ Advanced semantics with rest API operations such as update if not changed; conditional read and conditional write.
-◦ Storage of data in key/value store.
-◦ Security mechanism (OAuth).
-◦ Elastic Seach capabilities for efficient search of the data.
+* Rest API that can handle any structured data in Json.
+* Rest API with support for crud operations, including merge support, cascaded delete.
+* Rest API with support for validation.
+* Json Schema describing the data model for the use case.
+* Advanced semantics with rest API operations such as update if not changed; conditional read and conditional write.
+* Storage of data in key/value store.
+* Security mechanism (OAuth).
+* Elastic Seach capabilities for efficient search of the data.
 
 ## Prerequisites for building and deploying our application locally
 * IntellIj
